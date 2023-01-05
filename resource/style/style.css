@@ -1,0 +1,118 @@
+header{
+    background: #fff8f3;
+    background: url(/resource/image/header_bg.png), url(/resource/image/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 200px;
+}
+h2{
+    font-size: 30px;
+    font-family: 20px;
+}
+ul li{
+    display: flex;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+  
+}
+nav ul li{
+    list-style: none;
+    margin: 0 20px;
+}
+nav ul li a{
+  
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    border: 0;
+    width: 100px;
+    height: 50px;
+    background: orange;
+    color: aliceblue;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 15px;
+}
+a{
+    font-size:20px;
+}
+.bannar{
+    display: flex;
+    align-items: center;
+    padding: 0 200px;
+  
+
+}
+.bannar-title{
+    font-size: 30px;
+    font-weight: 100px;
+}
+.sub-title{
+    font-size: 50px;
+}
+.bannar-description{
+    color: #757575;
+}
+.btn2{
+    border: 0;
+    width: 200px;
+    height: 50px;
+    background: orange;
+    color: aliceblue;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 15px;
+}
+.cont{
+    background: transparent;
+    border: orange solid 1px;
+    width: 100px;
+    height: 50px;
+    margin-left:20px ;
+}
+
+.img{
+    width: 500px;
+    height: 600px;
+}
+main{
+    max-width: 1000px;
+    margin: 0 auto;
+   
+}
+.about{
+    background: #fff8f3;
+    padding: 150px 150px;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+.about-title{
+    text-align: center;
+    font-size: 30px;
+}
+.about-description{
+
+    text-align: center;
+    color: #757575;
+}
+.about-section{
+    display: flex;
+    justify-content: space-around;
+}
+section div h2, p{
+    text-align: center;
+}
+section div p{
+    color: #757575;
+}
+.about-email{
+    text-decoration: none;
+    color: black;
+}
