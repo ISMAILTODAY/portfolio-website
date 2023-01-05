@@ -1,6 +1,6 @@
 header{
     background: #fff8f3;
-    background: url(/resource/image/header_bg.png), url(/resource/image/developer.png);
+    background: url(resource/image/header_bg.png), url(resource/image/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left;
 }
